@@ -1,0 +1,12 @@
+.model-laptop-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.model-laptop {
+  //   margin-top: -30px;
+  width: 200%; // Adjust the width as needed
+  height: 200%; // Adjust the height as needed
+}

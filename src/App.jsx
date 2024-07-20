@@ -1,8 +1,9 @@
 import { Fragment } from "react";
+import NewFormComponent from "./NewFormComponent";
 function App() {
   return (
     <Fragment>
-      <h1>Hello World!</h1>
+      <NewFormComponent />
     </Fragment>
   );
 }
